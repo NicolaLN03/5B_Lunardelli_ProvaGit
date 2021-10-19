@@ -1,0 +1,21 @@
+ Directory di C:\Users\in5b12
+
+24/09/2021  13:54    <DIR>          .
+24/09/2021  13:54    <DIR>          ..
+24/09/2021  14:32    <DIR>          .eclipse
+16/09/2021  08:30    <DIR>          3D Objects
+16/09/2021  08:30    <DIR>          Contacts
+19/10/2021  09:42    <DIR>          Desktop
+11/10/2021  12:58    <DIR>          Documents
+19/10/2021  09:20    <DIR>          Downloads
+16/09/2021  08:30    <DIR>          Favorites
+16/09/2021  08:30    <DIR>          Links
+16/09/2021  08:30    <DIR>          Music
+16/09/2021  08:31    <DIR>          OneDrive
+16/09/2021  08:30    <DIR>          Pictures
+16/09/2021  08:30    <DIR>          Saved Games
+16/09/2021  08:30    <DIR>          Searches
+21/09/2021  10:46    <DIR>          Videos
+08/10/2021  14:46    <DIR>          workspace
+               0 File              0 byte
+              17 Directory  160.757.985.280 byte disponibili
